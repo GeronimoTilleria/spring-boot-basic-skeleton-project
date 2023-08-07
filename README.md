@@ -1,1 +1,2 @@
-Find this tutorial on https://studygyaan.com/spring-boot/spring-boot-basic-skeleton-project
+Autor: https://github.com/studygyaan
+Encuentra este tutorial en https://studygyaan.com/spring-boot/spring-boot-basic-skeleton-project
