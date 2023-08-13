@@ -7,9 +7,9 @@ Este es un proyecto de ejemplo que demuestra cómo crear una aplicación Spring 
 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes en tu sistema:
 
-1. [Docker]: <https://docs.docker.com/engine/install/>
-2. [Docker Compose]: <https://docs.docker.com/compose/install/>
-3. [Java Development Kit (JDK) 17:]: <https://www.oracle.com/java/technologies/downloads/>
+1. [Docker](https://docs.docker.com/engine/install/)
+2. [Docker Compose](https://docs.docker.com/compose/install/)
+3. [Java Development Kit (JDK) 17:](https://www.oracle.com/java/technologies/downloads/)
 
 
 ### Pasos para ejecutar el proyecto
@@ -51,9 +51,9 @@ docker-compose down
 
 * Esqueleto del proyecto Spring Boot Básico en el tutorial:
 
-[Link del repositorio]: <https://studygyaan.com/spring-boot/spring-boot-basic-skeleton-project>
+[Link del repositorio](https://studygyaan.com/spring-boot/spring-boot-basic-skeleton-project)
 
 * Autor
 
-[StudyGyaan]: <https://github.com/studygyaan>
+[StudyGyaan](https://github.com/studygyaan)
 
