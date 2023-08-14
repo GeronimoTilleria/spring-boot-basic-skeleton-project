@@ -25,7 +25,7 @@ git clone https://github.com/GeronimoTilleria/spring-boot-basic-skeleton-project
 2. Generar JAR:
 
 ```sh
-mvn package
+mvn package -DskipTests
 ```
 
 3. Ejecutar Docker Compose:
@@ -34,10 +34,10 @@ mvn package
 docker-compose up -d
 ```
 
-5. Acceder a la aplicación:
+4. Acceder a la aplicación:
 
 ```sh
-http://localhost:8080/
+http://localhost:8080/api/hello
 ```
 
 5. Detener los contenedores:
